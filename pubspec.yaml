@@ -1,0 +1,8 @@
+name: stand_alone_socket_client
+description: Basic Socket Client
+version: 0.0.1
+author: Kris
+
+dependencies:
+
+    
